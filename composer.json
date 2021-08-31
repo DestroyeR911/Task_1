@@ -1,0 +1,17 @@
+{
+    "name": "destroyer911/dom",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Евгений Трифонов",
+            "email": "this.paladin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    }
+}
